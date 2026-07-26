@@ -90,13 +90,15 @@ The Block Diagram is Available in :
 
 ## Ladder Logic Diagram 
 
-(Add diagram)
+The PLC Ladder Logic is Available in:
+('ladder logic.pdf')
 
 ---
 
-## Circuit Diagram
+## Results
 
-(Add diagram here)
+The Result images are Available in: 
+('Ladder logic result.pdf')
 
 ---
 ## Arduino Code
