@@ -10,7 +10,7 @@ The system uses:
 - Photoelectric Sensor
 - Servo Motor
 - I2C LCD Display
-- Arduino UNO
+- Arduino UNO 
 
 When an object is detected, the sensors identify its type. 
 The servo motor diverts the object to the correct bin while the LCD displays the running count.
@@ -103,7 +103,7 @@ The complete Arduino source code for this project is available in:
 
 ## Demo Video
 
-(Add YouTube or video link)
+https://drive.google.com/drive/folders/1WHLlwHqej_oxQ29SJPBN2GHRz8JckQo0
 
 ---
 
