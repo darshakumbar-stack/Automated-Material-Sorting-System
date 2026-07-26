@@ -95,6 +95,11 @@ The servo motor diverts the object to the correct bin while the LCD displays the
 (Add diagram here)
 
 ---
+## Arduino Code
+The complete Arduino source code for this project is available in:
+('Arduino code.ino')
+
+---
 
 ## Demo Video
 
