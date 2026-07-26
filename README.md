@@ -83,6 +83,9 @@ The Arduino connections diagram Available in:
 
 ## Block Diagram 
 
+The Block Diagram is Available in :
+('Block diagram.pdf')
+
 ---
 
 ## Ladder Logic Diagram 
