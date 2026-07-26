@@ -80,6 +80,16 @@ The servo motor diverts the object to the correct bin while the LCD displays the
 
 ---
 
+## Block Diagram 
+
+---
+
+## Ladder Logic Diagram 
+
+(Add diagram)
+
+---
+
 ## Circuit Diagram
 
 (Add diagram here)
