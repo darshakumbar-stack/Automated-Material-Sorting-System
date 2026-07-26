@@ -74,9 +74,10 @@ The servo motor diverts the object to the correct bin while the LCD displays the
 
 ---
 
-## Project Images
+## Arduino Connections 
 
-(Add images here)
+The Arduino connections diagram Available in:
+('Arduino connections.pdf')
 
 ---
 
